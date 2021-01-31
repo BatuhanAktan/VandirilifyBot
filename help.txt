@@ -1,0 +1,4 @@
+							Prefix ' . '
+add *string* (Channel Name or Channel Url) ------------------- Add a channel to list
+remove *string* (Channel Name) ------------------------------- Remove channel from list
+list --------------------------------------------------------- Lists all the channels you are currently following")
